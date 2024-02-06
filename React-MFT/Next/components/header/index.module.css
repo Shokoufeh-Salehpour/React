@@ -1,0 +1,9 @@
+.menu {
+  list-style: none;
+}
+
+.menu li {
+  border: 1px solid pink;
+  margin-bottom: 1rem;
+  padding: 10px 20px;
+}
